@@ -4,8 +4,6 @@
 
 
 [![GitHub version](https://img.shields.io/github/package-json/v/chrisleekr/binance-trading-bot)](https://github.com/chrisleekr/binance-trading-bot/releases)
-[![Build](]
-[![CodeCov]()]
 [![Docker pull](https://img.shields.io/docker/pulls/chrisleekr/binance-trading-bot)]
 [![GitHub contributors](https://img.shields.io/github/contributors/chrisleekr/binance-trading-bot)]
 [![MIT License](https://img.shields.io/github/license/chrisleekr/binance-trading-bot)]
